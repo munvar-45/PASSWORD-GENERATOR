@@ -32,3 +32,7 @@ User input handling for flexibility in password length
 Future improvements could include adding options for excluding similar-looking characters (like O and 0), generating passphrases, or integrating the program into a GUI for a more interactive experience.
 
 Overall, the Password Generator is a practical and secure tool, showcasing the effective use of Python for solving real-world problems.
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a32ac889-d472-436e-85ec-e5d55eb559c4)
